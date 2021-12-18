@@ -1,0 +1,41 @@
+{
+  "name": "Pixelflowswap Default",
+  "timestamp": "2021-12-18T16:46:28.035Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pixelflowswap.finance/img/logo.png",
+  "keywords": [
+    "Pixelflowswap",
+    "bsc"
+  ],
+  "tokens": [
+    {
+      "name": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "symbol": "BUSD",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/busd_32.png"
+    },
+    {
+      "name": "PXL",
+      "address": "0x9ED8B221ab173Ee515242eA651B408E3D4c41492",
+      "symbol": "PXL",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://pixelflowswap.finance/img/logo.png"
+    },
+    {
+      "name": "Wrapped BNB",
+      "address": "0x87a5D4dD9F1092eBf33a78821fa950b7828C87E2",
+      "symbol": "WBNB",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://bscscan.com/token/images/binance_32.png"
+    }
+  ]
+}
